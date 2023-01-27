@@ -1,4 +1,4 @@
-# Python-full-stack
+# Python Full Stack
 I am going to learn about full stack web development using python and implement it in this repository
 
 ## Course overview
