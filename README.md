@@ -9,13 +9,13 @@ I am going to learn about full stack web development using python and implement 
 4. Javascript
 5. React JS
 
-###Back end
+### Back end
 6. python
 7. Django
 
-###Database
+### Database
 8. MySql
 9. MongoDB
 
-###Extra
+### Extra
 10. Git
