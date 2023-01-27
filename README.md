@@ -1,8 +1,8 @@
 # Python-full-stack
 I am going to learn about full stack web development using python and implement it in this repository
 
-##Course overview
-###Front End
+## Course overview
+### Front End
 1. HTML
 2. CSS
 3. Bootstrap
